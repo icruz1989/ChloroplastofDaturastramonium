@@ -20,3 +20,6 @@ This repository contains the pipeline and supplementary data of the manuscript T
 
     perl NOVOPlasty3.2.pl -c config.txt
 
+An example of a Configuration file is provided in the tutorial of NOVOPlasty https://github.com/ndierckx/NOVOPlasty 
+This program has the option to set a Max memory in order to subsample the nuber of sequences from the whole genome sequencing project
+
