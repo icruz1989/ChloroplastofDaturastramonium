@@ -1,0 +1,130 @@
+####################################################################
+
+Table 1. Gene composition in this chloroplast genome.
+__________________________________________________________________________________
+
+Category of genes		Group of genes		Name of genes
+__________________________________________________________________________________
+
+Genes for photosynthesis	Subunits of ATP synthase	atpA, atpB, atpE, atpF, atpH, atpI
+Genes for photosynthesis	Subunits of photosystem II	psbA, psbB, psbC, psbD, psbE, psbF, psbI, psbJ, psbK, psbM, psbN, psbT, psbZ, ycf3
+Genes for photosynthesis	Subunits of NADH-dehydrogenase	ndhA, ndhB, ndhB, ndhC, ndhD, ndhE, ndhF, ndhG, ndhH, ndhI, ndhJ, ndhK
+Genes for photosynthesis	Subunits of cytochrome b/f complex	petA, petB, petD, petG, petL, petN
+Genes for photosynthesis	Subunits of photosystem I	psaA, psaB, psaC, psaI, psaJ
+Genes for photosynthesis	Subunit of rubisco	rbcL
+
+Self replication	Large subunit of ribosome	rpl14, rpl16, rpl20, rpl22, rpl23, rpl23, rpl32, rpl33, rpl36
+Self replication	DNA dependent RNA polymerase	rpoA, rpoB, rpoC1, rpoC2
+Self replication	Small subunit of ribosome	rps11, rps12, rps12, rps14, rps15, rps16, rps18, rps19, rps2, rps3, rps4, rps7, rps7, rps8
+
+Other genes	Subunit of Acetyl-CoA-carboxylase	accD
+Other genes	c-type cytochrom synthesis gene	ccsA
+Other genes	Envelop membrane protein	cemA
+Other genes	Protease	clpP
+Other genes	Maturase	matK
+
+Unkown	Conserved open reading frames	ycf1, ycf1, ycf1, ycf15, ycf15, ycf2, ycf2, ycf4
+
+__________________________________________________________________________________
+
+####################################################################
+
+Table 2. The lengths of introns and exons for the splitting genes.
+__________________________________________________________________________________
+
+Gene	Strand	Start	End	ExonI	IntronI	ExonII	IntronII	ExonIII
+__________________________________________________________________________________
+
+trnA-UGC	-	5914	6797	37	811	36
+trnE-UUC	-	6862	7655	32	722	40
+ndhB	+	12962	15173	775	679	758
+trnK-UUU	-	27328	29907	37	2507	36
+rps16	-	30632	31764	40	866	227
+trnS-CGA	+	34862	35626	31	674	60
+atpF	-	37557	38812	145	701	410
+rpoC1	-	46891	49694	453	737	1614
+ycf3	-	69621	71629	124	741	232	761	151
+trnL-UAA	+	74270	74855	35	501	50
+trnV-UAC	-	78817	79460	36	552	56
+clpP	-	97724	99749	71	795	294	634	232
+petB	+	102695	104088	6	746	642
+petD	+	104279	105509	9	748	474
+ndhB	-	122249	124460	775	679	758
+trnE-UUC	+	129767	130560	32	722	40
+trnA-UGC	+	130625	131508	37	811	36
+ndhA	-	147112	149353	553	1150	539
+trnL-UAA	-	151361	153211	40	1758	53
+__________________________________________________________________________________
+
+####################################################################
+
+Table 3. Codon Usage in this chloroplast genome.
+__________________________________________________________________________________
+
+Codon	Amino acid	Frequency	Number
+GCA	A	14.565	727
+GCC	A	8.415	420
+GCG	A	5.089	254
+GCT	A	22.399	1118
+TGC	C	3.386	169
+TGT	C	8.294	414
+GAC	D	8.154	407
+GAT	D	32.557	1625
+GAA	E	38.547	1924
+GAG	E	13.924	695
+TTC	F	21.197	1058
+TTT	F	36.984	1846
+GGA	G	25.625	1279
+GGC	G	7.673	383
+GGG	G	11.620	580
+GGT	G	20.956	1046
+CAC	H	5.890	294
+CAT	H	18.793	938
+ATA	I	25.084	1252
+ATC	I	16.829	840
+ATT	I	40.651	2029
+AAA	K	39.429	1968
+AAG	K	14.706	734
+CTA	L	13.223	660
+CTC	L	7.774	388
+CTG	L	7.373	368
+CTT	L	22.559	1126
+TTA	L	32.176	1606
+TTG	L	22.499	1123
+ATG	M	22.780	1137
+AAC	N	12.121	605
+AAT	N	37.465	1870
+CCA	P	12.422	620
+CCC	P	7.894	394
+CCG	P	6.231	311
+CCT	P	15.106	754
+CAA	Q	26.486	1322
+CAG	Q	9.276	463
+AGA	R	18.152	906
+AGG	R	7.333	366
+CGA	R	14.545	726
+CGC	R	3.967	198
+CGG	R	4.688	234
+CGT	R	12.362	617
+AGC	S	4.688	234
+AGT	S	15.567	777
+TCA	S	14.926	745
+TCC	S	12.642	631
+TCG	S	8.535	426
+TCT	S	22.659	1131
+ACA	T	14.886	743
+ACC	T	9.657	482
+ACG	T	5.590	279
+ACT	T	19.875	992
+GTA	V	19.374	967
+GTC	V	6.932	346
+GTG	V	7.253	362
+GTT	V	19.374	967
+TGG	W	18.152	906
+TAC	Y	7.393	369
+TAT	Y	29.351	1465
+TAA	*	2.484	124
+TAG	*	1.603	80
+TGA	*	1.863	93
+__________________________________________________________________________________
+
