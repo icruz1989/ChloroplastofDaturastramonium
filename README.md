@@ -2,6 +2,10 @@
 
 This repository contains the pipeline and supplementary data of the manuscript The complete chloroplast genomes of two Mexican plants of the annual herb Datura stramonium (Solanaceae)
 
+
+Paper
+https://www.tandfonline.com/doi/full/10.1080/23802359.2020.1789516
+
 ## Programs
 
 1. Trimommatic
